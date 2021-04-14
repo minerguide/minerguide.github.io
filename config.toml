@@ -1,0 +1,38 @@
+baseURL = "https://www.minerguide.org/"
+languageCode = "zh-cn"
+title = "矿工指南网"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcaseCustomized"
+themesDir = "../.."
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+publishDir = "docs"
+# this setting should always be set to false, otherwise it will break the section navigation bar
+pluralizelisttitles = false
+
+[params]
+  author = "矿工指南网"
+  description = "矿工指南网，您挖矿生涯的指路人"
+  message = ""
+  hideAutoMenu = false
+  # hide dir menu if true
+  #todo
+    mail ="minerguide@outlook.com"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+
+[[menu.main]]
+  name = "我们"
+  url = "/about/"
+#[social]
+ # facebook = "https://facebook.com"
+ # twitter = "https://twitter.com"
+  #instagram = "https://instagram.com"
+ # linkedin = "https://linkedin.com"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
