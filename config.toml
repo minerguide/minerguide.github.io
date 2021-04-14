@@ -1,4 +1,4 @@
-baseURL = "https://www.minerguide.org/"
+baseURL = "https://minerguide.github.io"
 languageCode = "zh-cn"
 title = "矿工指南网"
 Paginate = 1000
