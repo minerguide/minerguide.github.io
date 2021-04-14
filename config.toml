@@ -16,7 +16,7 @@ pluralizelisttitles = false
   message = ""
   hideAutoMenu = false
   # hide dir menu if true
-  #todo
+  #new
     mail ="minerguide@outlook.com"
 
 [[menu.main]]
