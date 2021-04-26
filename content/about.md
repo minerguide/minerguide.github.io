@@ -1,7 +1,7 @@
 ---
 title: 我们
 date: 2021-04-14
-subtitle: 矿工指南网(MinerGuide.org) 由一群资深的软件工程师和矿工开发和运维。专注于为区块链矿工服务和赋能...
+subtitle: 矿工指南网(MinerGuide.org) 由一群资深的软件工程师和矿工开发和运维。矿工指南网(MinerGuide.org)带你挖矿带你飞...
 link: /about/
 image: https://source.unsplash.com/900x600/?london
 Exclude: true
@@ -9,9 +9,9 @@ Exclude: true
 
 
 
-[矿工指南网](https://www.minerguide.org/)由一群资深的软件工程师和矿工开发和运维。专注于为区块链矿工服务和赋能...
+[矿工指南网](https://www.minerguide.org/)由一群资深的软件工程师和矿工开发和运维。专注于为区块链矿工服务和赋能。[矿工指南网](MinerGuide.org)带你挖矿带你飞！
 
-矿工指南网，是广大矿工的指路明灯。
+
 
 
 ##### 友情链接：
