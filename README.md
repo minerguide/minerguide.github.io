@@ -1,2 +1,2 @@
 # Note
-1, git 项目需要public
+1, git 项目需要public！
