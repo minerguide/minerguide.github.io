@@ -2,7 +2,7 @@
 title: 最新网红数据货币Chia币挖矿指南
 date: 2021-04-26
 subtitle: 最新网红数据货币Chia币挖矿指南...
-link: /矿工指南/chia币挖矿指南/
+link: /矿工指南/chia币挖矿指南/index.html
 image: /images/chia_logo.svg
 Exclude: false
 ---
