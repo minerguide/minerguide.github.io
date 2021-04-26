@@ -22,6 +22,12 @@ Exclude: true
 
 <font size="1">[门罗币](https://www.getmonero.org/zh-cn/index.html) </font>
 
+<font size="1">[奇亚币](https://www.chia.net/) </font>
+
+<font size="1">[渡鸦币](https://ravencoin.org/) </font>
+
+<font size="1">[zMiner](https://www.zminer.org/) </font>
+
 <font size="1">[数字货币行情信息](https://tokenview.com/cn) </font>
 
 <font size="1">[利率信息--全国银行间同业拆解中心](http://www.chinamoney.com.cn/chinese/mkdatapm/) </font>
